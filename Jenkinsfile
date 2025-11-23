@@ -12,7 +12,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/SaiLokesh789/smsjar'
+                git branch: 'main', url: 'https://github.com/Charan-Teja21/sms_repo.git'
             }
         }
 
