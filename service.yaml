@@ -10,4 +10,4 @@ spec:
   ports:
     - port: 8100          # container's port
       targetPort: 8100
-      nodePort: 30100     # exposed externally on localhost
+      nodePort: 30300     # exposed externally on localhost
